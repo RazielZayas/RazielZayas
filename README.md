@@ -11,7 +11,7 @@ I'm a Junior Data Analyst with a background in **Clinical Psychology** and over 
 
 ## Skills & Tools
 - **Languages**: Python, SQL
-- **Data Analysis**: Excel, Power BI, IBM Cognos Analytics
+- **Data Analysis**: Data Entry, Excel, Power BI, IBM Cognos Analytics
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Data Wrangling**: Data cleaning, preparation, and visualization
 - **Business Intelligence**: Dashboards and reporting with Power BI, Cognos
