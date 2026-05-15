@@ -28,6 +28,10 @@ I'm a Junior Data Analyst with a background in **Clinical Psychology** and over 
 ### 3. **Compensation and Benefits Data (Excel)**
 - Worked with employee data, used pivot tables, and created reports to streamline compensation and benefits analysis during my internship at Bravo Corporate Offices.
 
+### 4. **Retail Sales & Market Basket Analysis(SQL- Power BI - Python) **
+- End-to-end data analytics project focused on retail sales performance, customer behavior, and product recommendation strategies using SQL, Python, and Power BI.
+The project combined Business Intelligence and predictive analytics to transform transactional sales data into actionable business insights for decision-making.
+
 ---
 
 ## Education
